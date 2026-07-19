@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.snakejac.aeroblockban.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "aeroblockban.refmap.json",
+  "mixins": [
+    "SubLevelAssemblyHelperMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

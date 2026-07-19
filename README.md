@@ -1,4 +1,4 @@
-![Logo](src/main/resources/assets/aeroblockban/icon.png)
+<img src="src/main/resources/assets/aeroblockban/icon.png" alt="Logo" width=200>
 Aero Block Ban is a utility mod that prevents certain blocks from being used inside simulated contraptions.
 
 Github will be available soon for any issues. 
